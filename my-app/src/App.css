@@ -1,0 +1,66 @@
+.title {
+  color: white;
+  background-color: blue;
+  text-align: center;
+ 
+}
+.circle{
+  display: inline-flex;
+  border:1px solid black;
+background-color:white;
+
+}
+.banner{
+  display:inline-flex;
+  background-color: white;
+
+}
+.banner-img{
+ 
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+
+background-color: white;
+
+}
+
+.all{
+  background-color: #eeee;
+}
+.p1{
+  display: inline-flex;
+  background-color: white;
+}
+.p2{
+  background-color: white;
+ width:40%;
+ height: 20%;
+ border: 1px solid black;
+margin-left: 9px;
+}
+.add{
+  position: absolute;
+  right:-9% ;
+ 
+ 
+  top:174%;
+
+  width:85%;
+  background-color:white;
+ 
+}
+
+.discount{
+  display: inline-flex;
+
+}
+.search{
+  position: absolute;
+  top:7%;
+  left: 57%;
+}
+.mobile{
+  color: black;
+  background-color:aquamarine;
+}
